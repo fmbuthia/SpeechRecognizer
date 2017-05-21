@@ -1,0 +1,19 @@
+{
+  "name": "speechrecognizer",
+  "version": "1.0.0",
+  "description": "Android SpeechRecognizer plugin for Cordova/Phonegap =================================== This plugin provides access to the speech recognition feature. This plugin will recognize commands, phrases, etc as spoken by the user.",
+  "main": "SpeechRecognizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmbuthia/SpeechRecognizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmbuthia/SpeechRecognizer/issues"
+  },
+  "homepage": "https://github.com/fmbuthia/SpeechRecognizer#readme"
+}
